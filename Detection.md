@@ -31,4 +31,4 @@ Sepcial thanks to [jiangzhengkai](https://github.com/jiangzhengkai) for the pape
      - #### Object detectors emerge in deep scene CNNS
      
  ### Paper List
- [Detection](https://github.com/jiangzhengkai/Computer-Vision-Detection)
+ - [Detection](https://github.com/jiangzhengkai/Computer-Vision-Detection)
