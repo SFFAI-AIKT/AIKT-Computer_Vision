@@ -8,3 +8,5 @@ This repository is a sub branch of AI Knowledge Tree, mainly focus on Computer V
 [Segmentation](https://github.com/RenMin1991/AIKT-Computer_Vision/blob/master/Segmentation.md)
 
 [Image Generallization](https://github.com/RenMin1991/AIKT-Computer_Vision/blob/master/Image%20Generalization.md)
+
+# [Renturn to AIKT-MAIN](https://github.com/SFFAI-AIKT/AIKT-MAIN)
