@@ -1,5 +1,7 @@
 # Detection
 
+Sepcial thanks to [jiangzhengkai](https://github.com/jiangzhengkai) for the paper list.
+
  - ### Two Stage
 
      - #### （RCNN）Rich featurehierarchies for accurate object detection and semantic segmentation
@@ -27,3 +29,6 @@
      - #### DeepBox：利用卷积网络学习目标特性
 
      - #### Object detectors emerge in deep scene CNNS
+     
+ ### Paper List
+ [Detection](https://github.com/jiangzhengkai/Computer-Vision-Detection)
