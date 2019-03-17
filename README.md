@@ -1,6 +1,7 @@
 # AIKT-Computer_Vision
 This repository is a sub branch of AI Knowledge Tree, mainly focus on Computer Vision.
 
+
  - #### [Classification](https://github.com/RenMin1991/AIKT-Computer_Vision/blob/master/Classification.md)
     - ##### Basic Model
     - ##### Fine-grained Classification
@@ -10,6 +11,8 @@ This repository is a sub branch of AI Knowledge Tree, mainly focus on Computer V
     - ##### Two Stage
     - ##### One Stage
     - ##### More Methods
+    - [Detection](https://github.com/jiangzhengkai/Computer-Vision-Detection)
+
 
 - #### [Segmentation](https://github.com/RenMin1991/AIKT-Computer_Vision/blob/master/Segmentation.md)
     - ##### Senamntic Segmentation
